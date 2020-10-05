@@ -1,6 +1,12 @@
 # NeoCode-Windows_Users
 exports filtered list of windows accounts
 
+user: admin
+
+pass: <not set>
+
+# Command
+
 cmd.exe /c wmic UserAccount get Name | sort > c:\users\administrator\desktop\users.csv
 
 # Config
