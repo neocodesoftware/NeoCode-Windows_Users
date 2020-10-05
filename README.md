@@ -1,9 +1,9 @@
 # NeoCode-Windows_Users
-exports filtered list of windows accounts
+exports filtered, srted list of windows accounts for billing purposes
 
 user: admin
 
-pass: <not set>
+pass: NOT SET
 
 # Command
 
